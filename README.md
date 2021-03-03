@@ -1,4 +1,4 @@
-# Hello World!!
+# Hello World!! Olá, Mundo!!
  Primeiro repositório versionado
 
-Repositório criado durante a aula!
+Primeiro repositório, criado durante meu primeiro contato estudado da ferramenta. Deixo este repositório de lembrança do meu primeiro commit :)
